@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm **Pumasin Paeyai**.
+Hola! 👋 I'm **Pumasin Paeyai**.
 
 I am a **Computer Engineering** undergraduate at **King Mongkut's University of Technology North Bangkok (KMUTNB)**.
 
