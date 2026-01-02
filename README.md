@@ -3,10 +3,10 @@ Hola! 👋 I'm **Pumasin Paeyai**.
 
 I am a **Computer Engineering** undergraduate at **King Mongkut's University of Technology North Bangkok (KMUTNB)**.
 
-My passion lies at the intersection of **Backend Architecture**, **Autonomous AI Agents**, and **Computer Vision**. I don't just write code; I build systems that bridge the gap between complex AI models and production-ready applications.
+My passion lies at the intersection of **Backend Architecture**, **Autonomous AI Agents**, and **Computer Vision**. I don't just write code I build systems that bridge the gap between complex AI models and production-ready applications.
 
 🚀 **My Philosophy:**
-I am a relentless learner who thrives on the unknown. I have no fear of technologies I haven't touched yet—I view them as challenges to be conquered. I actively seek out difficult projects that force me to evolve as an engineer.
+I am a relentless learner who thrives on the unknown. I have no fear of technologies I haven't touched yet. I view them as challenges to be conquered. I actively seek out difficult projects that force me to evolve as an engineer.
 
 - 🔭 I’m currently working on **AI-driven biometric verification systems**.
 - 🌱 I’m deeply interested in **Backend Architecture**, **AI Agents**, and **Computer Vision**.
@@ -18,12 +18,12 @@ I am a relentless learner who thrives on the unknown. I have no fear of technolo
 ## 🚀 Featured Projects
 
 #### 👂 **[Ear-DEC: Biometric Identification System](https://github.com/SonOfThitivas/Ear-Biometric-Desktop-Application)**
-> *A non-intrusive biometric verification system utilizing ear structure.*
+> *A biometric verification system utilizing ear structure.*
 - **Tech:** Electron (TSX), Python, YOLOv8, PyTorch, Docker, PostgreSQL.
 - **Highlights:** Implemented real-time detection and deep embedding models (ViT/ResNet) to achieve high-accuracy user verification.
 
 #### 🗺️ **[PaiNai: Social Activity Platform](https://github.com/Pancreasz/PaiNai_Backend)**
-> *A scalable backend for a location-based social matching application.*
+> *A location-based social matching application.*
 - **Tech:** Go (Golang), Gin, PostgreSQL (SQLC), Docker, Microsoft Azure.
 - **Highlights:** Architected a high-performance microservice with secure OAuth authentication and containerized cloud deployment.
 
