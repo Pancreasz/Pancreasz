@@ -22,6 +22,11 @@ I am a relentless learner who thrives on the unknown. I have no fear of technolo
 - **Tech:** Electron (TSX), Python, YOLOv8, PyTorch, Docker, PostgreSQL.
 - **Highlights:** Implemented real-time detection and deep embedding models (ViT/ResNet) to achieve high-accuracy user verification.
 
+#### 🤖 **[Agentic RAG Knowledge Base](https://github.com/Pancreasz/Agentic-RAG-Knowledge-Base)**
+> *An intelligent autonomous agent for querying internal documentation.*
+- **Tech:** n8n (Workflow Automation), Google Gemini 1.5 (LLM), PostgreSQL (pgvector), Docker, Azure Web App.
+- **Highlights:** Built a self-hosted RAG pipeline on Azure that processes user queries, retrieves context via vector similarity, and synthesizes answers using cloud-based LLMs to replace resource-heavy local inference.
+
 #### 🗺️ **[PaiNai: Social Activity Platform](https://github.com/Pancreasz/PaiNai_Backend)**
 > *A location-based social matching application.*
 - **Tech:** Go (Golang), Gin, PostgreSQL (SQLC), Docker, Microsoft Azure.
@@ -31,6 +36,11 @@ I am a relentless learner who thrives on the unknown. I have no fear of technolo
 > *Digitizing Alzheimer's screening with automated AI scoring.*
 - **Tech:** Flutter, Python (Flask), CNNs (DenseNet-121), Score-CAM.
 - **Highlights:** Replaced subjective manual scoring with an objective Deep Learning API, featuring explainable AI visualizations for clinicians.
+
+#### 🚗 **[TripShare: Ride-Matching Platform](https://github.com/Pancreasz/Undead-Miles)**
+> *A real-time driver and passenger matching application.*
+- **Tech:** React (Vite), TypeScript, Node.js, Axios, Docker, Jenkins, Prometheus, Grafana, Kubernetes, Jaeger.
+- **Highlights:** **Built specifically to learning DevOps tools.** This project serves as a sandbox for implementing end-to-end CI/CD pipelines, containerization strategies, and microservices communication, while solving real-world logistics problems.
 
 ---
 
