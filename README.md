@@ -22,7 +22,7 @@ I am a relentless learner who thrives on the unknown. I have no fear of technolo
 - **Tech:** Electron (TSX), Python, YOLOv8, PyTorch, Docker, PostgreSQL.
 - **Highlights:** Implemented real-time detection and deep embedding models (ViT/ResNet) to achieve high-accuracy user verification.
 
-#### 🤖 **[Agentic RAG Knowledge Base](https://github.com/Pancreasz/Agentic-RAG-Knowledge-Base)**
+#### 🤖 **[Agentic RAG ](https://github.com/Pancreasz/Research-paper-Agentic-RAG-front-end)**
 > *An intelligent autonomous agent for querying internal documentation.*
 - **Tech:** n8n (Workflow Automation), Google Gemini 1.5 (LLM), PostgreSQL (pgvector), Docker, Azure Web App.
 - **Highlights:** Built a self-hosted RAG pipeline on Azure that processes user queries, retrieves context via vector similarity, and synthesizes answers using cloud-based LLMs to replace resource-heavy local inference.
