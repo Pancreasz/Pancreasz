@@ -38,7 +38,7 @@ I am a relentless learner who thrives on the unknown. I have no fear of technolo
 - **Highlights:** Replaced subjective manual scoring with an objective Deep Learning API, featuring explainable AI visualizations for clinicians.
 
 #### 🚗 **[Undead-Miles: To solve Deadhead Miles problem](https://github.com/Pancreasz/Undead-Miles)**
-> *A real-time driver and passenger matching application.*
+> *Web app to find the deadhead miles trip.*
 - **Tech:** React (Vite), TypeScript, Node.js, Axios, Docker, Jenkins, Prometheus, Grafana, Kubernetes, Jaeger.
 - **Highlights:** **Built specifically to learning DevOps tools.** This project serves as a sandbox for implementing end-to-end CI/CD pipelines, containerization strategies, and microservices communication, while solving real-world logistics problems.
 
