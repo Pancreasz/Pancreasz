@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://pancreasz.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-pancreasz.github.io-1d33c9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website: pancreasz.github.io">
+  </a>
+  <br>
+  <sub>Interactive portfolio: live demos of my projects, research and experience → <a href="https://pancreasz.github.io">pancreasz.github.io</a></sub>
+</p>
+
 # 💫 About Me:
 Hola! 👋 I'm **Pumasin Paeyai**.
 
@@ -20,7 +28,7 @@ I am a relentless learner who thrives on the unknown. I have no fear of technolo
 #### 👂 **[Ear-DEC: Biometric Identification System](https://github.com/SonOfThitivas/Ear-Biometric-Desktop-Application)**
 > *A biometric verification system utilizing ear structure.*
 - **Tech:** Electron (TSX), Python, YOLOv8, PyTorch, Docker, PostgreSQL.
-- **Highlights:** Implemented real-time detection and deep embedding models (ViT/ResNet) to achieve high-accuracy user verification.
+- **Highlights:** Implemented real-time detection and a deep embedding model (EfficientNet-B0) to achieve high-accuracy user verification.
 
 #### 🤖 **[Agentic RAG ](https://github.com/Pancreasz/Research-paper-Agentic-RAG-front-end)**
 > *An intelligent autonomous agent for querying internal documentation.*
@@ -34,7 +42,7 @@ I am a relentless learner who thrives on the unknown. I have no fear of technolo
 
 #### 🧠 **[Digital MoCA: AI Medical Screening](https://github.com/Pancreasz/Dementia_Application4)**
 > *Digitizing Alzheimer's screening with automated AI scoring.*
-- **Tech:** Flutter, Python (Flask), CNNs (DenseNet-121), Score-CAM.
+- **Tech:** Flutter, Python (Flask), CNNs (DenseNet-201), Score-CAM.
 - **Highlights:** Replaced subjective manual scoring with an objective Deep Learning API, featuring explainable AI visualizations for clinicians.
 
 #### 🚗 **[Undead-Miles: To solve Deadhead Miles problem](https://github.com/Pancreasz/Undead-Miles)**
